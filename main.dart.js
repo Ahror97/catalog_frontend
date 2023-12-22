@@ -44354,7 +44354,7 @@ ar(){return new A.WZ(B.k)}}
 A.WZ.prototype={
 H(a){var s,r,q,p,o,n,m,l=null,k=17976931348623157e292
 this.d=A.ag(A.tP(a,t.Ju).a,!0,t.oo)
-s=A.ab8("logo.png",l,l,l)
+s=A.ab8("assets/logo.png",l,l,l)
 r=A.bO(B.H,A.bN(A.eP("MadeInSamarkand",l),l,l,l,A.cl(l,B.d2,25,B.aL),B.cH,l),B.o,l,l,l,l,l,l,l,l,l,210)
 q=Math.min(17976931348623157e292,A.bz(a,l,t.l).w.a.a/1.9)
 p=A.cl(l,l,15,l)
@@ -44364,7 +44364,7 @@ n=t.p
 q=A.dJ(A.f0(A.a([A.dJ(A.bO(l,new A.BL(o,B.Fd,p,B.EW,B.EX,!0,l),B.o,l,l,l,l,l,B.nD,l,l,l,q),7),A.dJ(A.bO(l,A.ej(A.a([A.dJ(A.j_(A.bN(A.eP("HomePage",l),l,l,l,A.cl(l,l,18,B.aL),l,l),new A.ap9(a),l),1),A.dJ(A.j_(A.bN(A.eP("Companies",l),l,l,l,A.cl(l,l,18,B.aL),l,l),new A.apa(),l),1),A.dJ(A.j_(A.bN(A.eP("Products",l),l,l,l,A.cl(l,l,18,B.aL),l,l),new A.apb(this,a),l),1),A.dJ(A.j_(A.bN(A.eP("News",l),l,l,l,A.cl(l,l,18,B.aL),l,l),new A.apc(),l),1)],n),B.T,B.Xo,B.P),B.o,l,l,l,l,l,l,l,l,l,l),5)],n),B.T,B.a_,B.P),1)
 p=A.dJ(A.bO(l,new A.OJ(new A.apd(),l,l,l,A.aDv(l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.cV(A.hQ(10),B.v),B.mu,l,l,l,l),B.o,l,!1,l,!0,A.ej(A.a([A.ab4(B.Lt,l,l,15),A.dJ(A.bN(A.eP("Login",l),l,l,l,A.cl(l,l,15,B.J),B.cH,l),1)],n),B.T,B.a_,B.P),l),B.o,l,l,l,l,l,B.nD,l,l,l,k),7)
 o=t.N
-o=A.a([A.axm(A.ej(A.a([A.ab8("flag-uz.png",B.jx,20,20),B.d9,A.bN("O'zbek",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"uz",o),A.axm(A.ej(A.a([A.ab8("flag-en.png",B.jx,20,20),B.d9,A.bN("English",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"en",o),A.axm(A.ej(A.a([A.ab8("flag-ru.png",B.jx,20,20),B.d9,A.bN("\u0420\u0443\u0441\u0441\u043a\u0438\u0439",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"ru",o)],t.FG)
+o=A.a([A.axm(A.ej(A.a([A.ab8("assets/flag-uz.png",B.jx,20,20),B.d9,A.bN("O'zbek",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"uz",o),A.axm(A.ej(A.a([A.ab8("assets/flag-en.png",B.jx,20,20),B.d9,A.bN("English",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"en",o),A.axm(A.ej(A.a([A.ab8("assets/flag-ru.png",B.jx,20,20),B.d9,A.bN("\u0420\u0443\u0441\u0441\u043a\u0438\u0439",l,l,l,A.cl(l,l,15,B.J),l,l)],n),B.T,B.a_,B.P),"ru",o)],t.FG)
 m=a.al(t.IB).r.a
 m===$&&A.b()
 return A.bO(l,A.ej(A.a([s,r,q,A.bO(l,A.f0(A.a([p,A.dJ(new A.xT(new A.ru(o,m.gcg(m),new A.ape(this,a),!0,new A.a4B(k,150,B.nE,new A.bJ(B.fN,l,l,l,l,l,l,B.Y),0),B.LD,new A.a7h(new A.bJ(l,l,l,A.hQ(10),l,l,l,B.Y)),B.Zj,l,t.J5),l),5)],n),B.T,B.a_,B.P),B.o,l,l,l,l,l,l,l,l,l,150)],n),B.T,B.a_,B.P),B.o,l,l,l,l,l,B.Ku,l,l,l,k)}}
