@@ -44187,7 +44187,7 @@ A.oj.prototype={
 vm(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$vm=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.J(A.avI(A.a1k("http","127.0.0.1:9000","api/category/",null)),$async$vm)
+return A.J(A.avI(A.a1k("http","185.203.237.37","api/category/",null)),$async$vm)
 case 2:p=b
 o=p.e
 A.fz(o)
@@ -44206,7 +44206,7 @@ A.om.prototype={
 vn(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$vn=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.J(A.avI(A.a1k("http","127.0.0.1:9000","api/company/",null)),$async$vn)
+return A.J(A.avI(A.a1k("http","185.203.237.37","api/company/",null)),$async$vn)
 case 2:p=b
 o=J.jk(B.aR.yu(0,A.avv(J.aW(A.auw(p.e).c.a,"charset")).e0(0,p.w),null),new A.a5E(),t.OI)
 q.a=A.ag(o,!0,A.m(o).i("b1.E"))
@@ -44224,7 +44224,7 @@ r=A.ag(new A.bg(r,new A.afo(a),s),!0,s.i("n.E"))}return A.ag(r,!0,t.U_)},
 vp(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$vp=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.J(A.avI(A.a1k("http","127.0.0.1:9000","api/product/",null)),$async$vp)
+return A.J(A.avI(A.a1k("http","185.203.237.37","api/product/",null)),$async$vp)
 case 2:p=b
 o=J.jk(B.aR.yu(0,A.avv(J.aW(A.auw(p.e).c.a,"charset")).e0(0,p.w),null),new A.afn(),t.U_)
 q.a=A.ag(o,!0,A.m(o).i("b1.E"))
@@ -44242,7 +44242,7 @@ A.po.prototype={
 vo(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$vo=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.J(A.avI(A.a1k("http","127.0.0.1:9000","api/news/",null)),$async$vo)
+return A.J(A.avI(A.a1k("http","185.203.237.37","api/news/",null)),$async$vo)
 case 2:p=b
 o=J.jk(B.aR.yu(0,A.avv(J.aW(A.auw(p.e).c.a,"charset")).e0(0,p.w),null),new A.ae6(),t.xG)
 q.a=A.ag(o,!0,A.m(o).i("b1.E"))
